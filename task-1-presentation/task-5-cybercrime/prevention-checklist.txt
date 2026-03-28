@@ -1,0 +1,16 @@
+- Do not click on unknown or suspicious links
+- Always check website URLs carefully
+- Never share OTP, passwords, or bank details
+- Use strong and unique passwords
+- Enable two-factor authentication
+- Avoid using public Wi-Fi for transactions
+- Verify emails and messages before responding
+- Keep your devices and apps updated
+
+UPI Safety:
+- Never approve unknown payment requests
+- Always check the receiver’s name before sending money
+
+Report Cybercrime:
+Website: https://cybercrime.gov.in
+Helpline: 1930
